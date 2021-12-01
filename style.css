@@ -1,0 +1,16 @@
+body {
+  background-color: gree;
+  font-family: "Playfair Display", serif;
+}
+#picture {
+  height: 300px;
+  justify-content: center;
+  filter: grayscale(100%);
+}
+.headers {
+  font-size: 20px;
+  color: #c9d93f;
+}
+.paragraphs {
+  font-size: 15px;
+}
